@@ -1,2 +1,2 @@
 # cloudmining.github.io
-Cloud mining info page
+Test github.io hosting
